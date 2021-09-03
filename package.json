@@ -15,6 +15,8 @@
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
     "@babel/preset-react": "^7.14.5",
+    "css-loader": "^6.2.0",
+    "style-loader": "^3.2.1",
     "ts-loader": "^9.2.5",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0",
